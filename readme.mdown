@@ -1,0 +1,10 @@
+# Show/Hide Alfred Plugin 
+
+A BASH Script for Alfred that allows you to easily show/hide OSX hidden files. Requires Alfred's power pack to enable extensions.
+
+## Instructions
+
+1.  Download or Pulldown the repo
+1.  Double click on the (show.alfredextension,hide.alfredextension) file to open
+
+Default triggers are (show,hide) , this can be set to your preference.
