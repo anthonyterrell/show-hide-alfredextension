@@ -8,3 +8,8 @@ A BASH Script for Alfred that allows you to easily show/hide OSX hidden files. R
 1.  Double click on the (show.alfredextension , hide.alfredextension) file to open
 
 Default triggers are (show , hide) , this can be set to your preference.
+
+
+## Changelog
+
+- Has been updated for Mountain Lion.
